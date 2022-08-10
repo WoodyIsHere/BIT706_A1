@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\BIT706_A1_5033522\bin\Debug\BIT706Assignment1.exe.config
+C:\Users\User\source\repos\BIT706_A1_5033522\bin\Debug\BIT706Assignment1.exe
+C:\Users\User\source\repos\BIT706_A1_5033522\bin\Debug\BIT706Assignment1.pdb
+C:\Users\User\source\repos\BIT706_A1_5033522\obj\Debug\BIT706_A1_5033522.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BIT706_A1_5033522\obj\Debug\BIT706_A1_5033522.FormHome.resources
+C:\Users\User\source\repos\BIT706_A1_5033522\obj\Debug\BIT706Assignment1.Properties.Resources.resources
+C:\Users\User\source\repos\BIT706_A1_5033522\obj\Debug\BIT706_A1_5033522.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BIT706_A1_5033522\obj\Debug\BIT706_A1_5033522.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BIT706_A1_5033522\obj\Debug\BIT706Assignment1.exe
+C:\Users\User\source\repos\BIT706_A1_5033522\obj\Debug\BIT706Assignment1.pdb
